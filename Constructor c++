@@ -1,0 +1,31 @@
+const.cpp (-/4N120EC113) - gedit
+
+Open
+
+#include<tostream> using namespace std; class sample
+
+{
+
+private: int x; double y; publlc: sample() 7/default blic:
+
+8{ 9 X=2; 10 y=4; 11) 13 { 14 X=a; 15 y=4; { 19 X=a; 20 y=b; 21 } | 24 X=a; 25 y=b; 26}
+
+12 sample(int a)
+
+16 } 17 sample(int a, int b) 18
+
+22 sample(tnt a, double b) 23 {
+
+27 vold disp()
+
+28 { "<<y<<endl; 30 } 31 }} 32 int main() 33 34 sample 01; 35 01.dlsp); 36 sample 02(45); 37 02.disp(; 38 sample 03( 10,9); 39 03.dtsp(); 40 samolo55...5..
+
+29 cout<<x<<"sample(int a, ininos { X=a; y=b; }
+
+sample(int a, double b)
+
+123 { 24 X=a; | 25 y=b; | 26} 1:28 { 29 cout<<x<<" "<<y<<endl; y 30 }
+
+127 vold disp()
+
+31 }; 32 int main() 33 { 34 sample 01; 35 01.disp(); 36 sample 02(45); 37 02.disp(); 38 sample 03( 10,9); 39 03.disp(); 40 sample 04(55,65); 41 04.disp(); 42 return 0; 43]
